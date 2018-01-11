@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import Tasks from './Tasks';
 import TicTacToe from './TicTacToe';
 import registerServiceWorker from './registerServiceWorker';
